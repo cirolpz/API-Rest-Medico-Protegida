@@ -1,7 +1,10 @@
 # API REST de Hospital | Spring Security, JWT
 
 Este proyecto es una API REST desarrollada en **Spring Boot** para gestionar los recursos de un hospital, como médicos, usuarios y pacientes. Implementa buenas prácticas de desarrollo, manejo de errores, seguridad con **Spring Security** y autenticación mediante **JSON Web Token (JWT)**.
-
+## Video
+      <a href="https://www.youtube.com/watch?v=bj4ap7-RJEs" target="_blank">
+        <img src="https://img.youtube.com/vi/bj4ap7-RJEs/maxresdefault.jpg" alt="ScreenMatch-ManejoDeSeriesConAPIyBD" style="width:100%;">
+      </a>
 ## Características Principales
 
 -   **Gestión de Recursos:**
